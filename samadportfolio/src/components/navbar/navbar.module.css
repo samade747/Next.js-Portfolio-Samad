@@ -1,0 +1,16 @@
+.container{
+    background-color: rgb(0, 0, 0);
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 50px;
+    gap: 20px;
+
+}
+
+.logo{
+    gap: 10px;
+    font-size: 30px;
+    font-weight: bold;
+} 
